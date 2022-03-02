@@ -14,6 +14,7 @@
 # COMMAND ----------
 
 storage_account_name = "joelstorageaccount"
+# comment
 storage_account_access_key = "04z03QuvkTNGvGZNkO3DJolOSEMbtmUwhqyKRa9Qv9VUih5bKt3CVe80WwLqcRgOWlh4XKu8JkLVnEUipBegnw=="
 
 # COMMAND ----------
